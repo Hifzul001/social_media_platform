@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Link to the template files: https://github.com/tomitokko/django-social-media-template
-=======
+
 # social_media_platform
 A professional networking social media platform using django 
 # Django Social Media Platform
